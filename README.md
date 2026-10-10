@@ -12,4 +12,4 @@ There is nothing to build; the files are read as they are.
 
 ## Licence
 
-CC0 1.0, as each pack's JSON record states. The repository adds none of its own.
+CC0 1.0. See [LICENSE](LICENSE).
